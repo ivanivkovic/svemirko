@@ -1,7 +1,6 @@
 # svemirko
 
 Assignment demonstrating a space station admin application in PHP.
-I seem to have a tendency to update its MVC here and there.
 
 # Information
 
